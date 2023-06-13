@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Привет. Я Сергей, Java-разработчик.👋</h1>
 
 <!--
 **PrSergey/PrSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
